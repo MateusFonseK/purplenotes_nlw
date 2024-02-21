@@ -1,4 +1,5 @@
-# PurpleNotes ![PurpleNotes Logo](./path/to/logo.png)
+# PurpleNotes 
+![PurpleNotes Logo](./path/to/logo.png)
 
 ![Print](print.png)
 
